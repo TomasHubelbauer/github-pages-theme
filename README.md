@@ -16,6 +16,12 @@ The repository at `tomashubelbauer/github-pages-theme` must be a valid Jekyll
 theme repository. Theoretically it can even be the same repository as the site
 repository, such as shown above.
 
+An existing theme repository can be used as an example - here's Tactile:
+https://github.com/pages-themes/tactile
+
+To build, debug and test the theme locally, install Jekyll and develop the
+theme.
+
 ## To-Do
 
 ### Create and try out a custom theme
